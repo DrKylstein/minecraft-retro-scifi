@@ -1,0 +1,42 @@
+{
+    "textures": {
+        "particle": "blocks/planks_birch",
+        "wood": "blocks/planks_birch",
+        "back": "blocks/itemframe_background"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 15.001 ],
+            "to": [ 16, 1, 16 ],
+            "faces": {
+                "down":  { "texture": "#wood" },
+                "up":    { "texture": "#wood" },
+                "north": { "texture": "#wood" },
+                "south": { "texture": "#wood" },
+                "west":  { "texture": "#wood" },
+                "east":  { "texture": "#wood" }
+            }
+        },
+        {   "from": [ 0, 7.5, 15.001 ],
+            "to": [ 16, 8.5, 16 ],
+            "faces": {
+                "down":  { "texture": "#wood" },
+                "up":    { "texture": "#wood" },
+                "north": { "texture": "#wood" },
+                "south": { "texture": "#wood" },
+                "west":  { "texture": "#wood" },
+                "east":  { "texture": "#wood" }
+            }
+        },
+        {   "from": [ 0, 15, 15.001 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#wood" },
+                "up":    { "texture": "#wood" },
+                "north": { "texture": "#wood" },
+                "south": { "texture": "#wood" },
+                "west":  { "texture": "#wood" },
+                "east":  { "texture": "#wood" }
+            }
+        }
+    ]
+}

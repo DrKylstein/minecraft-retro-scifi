@@ -1,0 +1,29 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/ladder",
+        "texture": "blocks/ladder"
+    },
+    "elements": [
+        {   "from": [ 0, 3, 14 ],
+            "to": [ 16, 5, 16 ],
+            "shade": false,
+            "faces": {
+                "north": { "texture": "#texture" },
+                "south": { "texture": "#texture" },
+                "west": { "texture": "#texture" },
+                "east": { "texture": "#texture" }
+            }
+        },
+        {   "from": [ 0, 11, 14 ],
+            "to": [ 16, 13, 16 ],
+            "shade": false,
+            "faces": {
+                "north": { "texture": "#texture" },
+                "south": { "texture": "#texture" },
+                "west": { "texture": "#texture" },
+                "east": { "texture": "#texture" }
+            }
+        }
+    ]
+}

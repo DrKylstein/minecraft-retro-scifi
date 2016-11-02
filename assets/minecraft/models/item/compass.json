@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/compass/compass_0"
+    },
+    "overrides": [
+        { "predicate": { "angle": 0.000 }, "model": "item/compass" },
+        { "predicate": { "angle": 0.0625}, "model": "item/compass/compass_1" },
+        { "predicate": { "angle": 0.1875}, "model": "item/compass/compass_2" },
+        { "predicate": { "angle": 0.3125}, "model": "item/compass/compass_3" },
+        { "predicate": { "angle": 0.4375}, "model": "item/compass/compass_4" },
+        { "predicate": { "angle": 0.5625}, "model": "item/compass/compass_5" },
+        { "predicate": { "angle": 0.6875}, "model": "item/compass/compass_6" },
+        { "predicate": { "angle": 0.8125}, "model": "item/compass/compass_7" },
+        { "predicate": { "angle": 0.9375}, "model": "item/compass" }
+    ]
+}

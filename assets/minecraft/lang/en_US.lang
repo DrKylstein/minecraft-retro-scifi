@@ -1,0 +1,243 @@
+item.bow.name=Rocket Gun
+item.arrow.name=Rocket
+entity.Arrow.name=Rocket
+item.spectral_arrow.name=Tracer Rocket
+item.tipped_arrow.name=Tipped Rocket
+subtitles.entity.arrow.hit=Rocket hits
+subtitles.entity.arrow.shoot=Rocket fired
+achievement.snipeSkeleton.desc=Kill a skelebot with a rocket from more than 50 meters
+
+item.swordWood.name=Baseball Bat
+item.swordStone.name=Switchblade
+item.swordIron.name=Bonesaw
+item.swordDiamond.name=Photon Cutlass
+item.swordGold.name=Brass Knuckles
+
+item.helmetGold.name=Safety Hood
+item.chestplateGold.name=Hazmat Suit
+item.leggingsGold.name=Hazmat Leggings
+item.bootsGold.name=Safety Boots
+
+item.book.name=Secret Plans
+item.enchantedBook.name=Punched Card
+item.writingBook.name=Write-o-matic
+item.writtenBook.name=Read-o-matic
+
+item.emerald.name=Greenback
+tile.oreEmerald.name=Forgotten Greens
+tile.blockEmerald.name=Money Bag
+
+item.bowl.name=Empty Soup Can
+item.porkchopRaw.name=Raw Pork
+item.porkchopCooked.name=Hotdog
+item.beefCooked.name=Burger
+item.potatoBaked.name=French Fries
+item.cookie.name=Donut
+
+item.seeds_pumpkin.name=Cathode Seeds
+tile.pumpkin.name=Noggin Tube
+tile.litpumpkin.name=Glowing Tube
+item.pumpkinPie.name=TV Dinner
+
+item.fishingRod.name=Speargun
+item.flintAndSteel.name=Lighter
+subtitles.item.flintandsteel.use=Lighter click
+
+
+item.shovelWood.name=Spoon
+item.pickaxeWood.name=Mallet
+item.hatchetWood.name=Butterknife
+item.hoeWood.name=Fork
+
+item.shovelStone.name=Shovel
+item.pickaxeStone.name=Pickaxe
+item.hatchetStone.name=Hatchet
+item.hoeStone.name=Rake
+
+item.shovelIron.name=Ditch Digger
+item.pickaxeIron.name=Jackhammer
+item.hatchetIron.name=Chainsaw
+item.hoeIron.name=Rotary Tiller
+
+item.shovelDiamond.name=Sonic Dirt-blaster
+item.pickaxeDiamond.name=Force Hammer
+item.hatchetDiamond.name=Laser Chainsaw
+item.hoeDiamond.name=Energy Tiller
+
+item.emptyMap.name=Blank Pict-o-tron
+item.map.name=Pict-o-tron
+
+item.brewingStand.name=Bunsen Burner
+container.brewing=Bunsen Burner
+subtitles.block.brewing_stand.brew=Bunsen Burner bubbles
+
+item.expBottle.name=Chemical X-P
+item.glassBottle.name=Vial
+entity.ThrownPotion.name=Chemical Grenade
+subtitles.entity.potion.splash=Grenade smashes
+subtitles.entity.potion.throw=Grenade thrown
+
+
+potion.effect.empty=Unobtanium Compound
+splash_potion.effect.empty=Unobtanium Grenade
+lingering_potion.effect.empty=Unobtanium Smoke Grenade
+tipped_arrow.effect.empty=Unobtanium Warhead
+
+potion.effect.water=Saline Solution
+splash_potion.effect.water=Explosive Compund
+lingering_potion.effect.water=Smoky Compound
+tipped_arrow.effect.water=Wet Rocket
+
+potion.effect.mundane=Mundane Compound
+splash_potion.effect.mundane=Explosive Mundane Compound
+lingering_potion.effect.mundane=Smoky Mundane Compound
+tipped_arrow.effect.mundane=Mundane Warhead
+
+potion.effect.thick=Thick Compound
+splash_potion.effect.thick=Explosive Thick Compound
+lingering_potion.effect.thick=Smoky Thick Compound
+tipped_arrow.effect.thick=Thick Warhead
+
+potion.effect.awkward=Awkward Compound
+splash_potion.effect.awkward=Explosive Awkward Compound
+lingering_potion.effect.awkward=Smoky Awkward Compound
+tipped_arrow.effect.awkward=Awkward Warhead
+
+potion.effect.night_vision=Night Vision Serum
+splash_potion.effect.night_vision=Night Vision Grenade
+lingering_potion.effect.night_vision=Night Vision Gas Grenade
+tipped_arrow.effect.night_vision=Night Vision Warhead
+
+potion.effect.invisibility=Invisibility Serum
+splash_potion.effect.invisibility=Invisibility Grenade
+lingering_potion.effect.invisibility=Invisibility Gas Grenade
+tipped_arrow.effect.invisibility=Invisibility Warhead
+
+potion.effect.leaping=Flubber Serum
+splash_potion.effect.leaping=Flubber Grenade
+lingering_potion.effect.leaping=Flubber Gas Grenade
+tipped_arrow.effect.leaping=Flubber Warhead
+
+potion.effect.fire_resistance=Fire Vaccine
+splash_potion.effect.fire_resistance=Fire-Proofing Grenade
+lingering_potion.effect.fire_resistance=Fire-Proofing Gas Grenade
+tipped_arrow.effect.fire_resistance=Fire-Proofing Warhead
+
+potion.effect.swiftness=Super Energy Serum
+splash_potion.effect.swiftness=Super Energy Grenade
+lingering_potion.effect.swiftness=Super Energy Gas Grenade
+tipped_arrow.effect.swiftness=Super Energy Warhead
+
+potion.effect.slowness=Sedative
+splash_potion.effect.slowness=Sedative Grenade
+lingering_potion.effect.slowness=Sedative Gas Grenade
+tipped_arrow.effect.slowness=Sedative Warhead
+
+potion.effect.water_breathing=Gill Serum
+splash_potion.effect.water_breathing=Gill Grenade
+lingering_potion.effect.water_breathing=Gill Gas Grenade
+tipped_arrow.effect.water_breathing=Gill Warhead
+
+potion.effect.healing=Healing Serum
+splash_potion.effect.healing=Healing Grenade
+lingering_potion.effect.healing=Healing Gas Grenade
+tipped_arrow.effect.healing=Healing Warhead
+
+potion.effect.harming=Toxic Serum
+splash_potion.effect.harming=Toxic Grenade
+lingering_potion.effect.harming=Toxic Gas Grenade
+tipped_arrow.effect.harming=Toxic Warhead
+
+potion.effect.poison=Virus Serum
+splash_potion.effect.poison=Virus Grenade
+lingering_potion.effect.poison=Viral Gas Grenade
+tipped_arrow.effect.poison=Viral Warhead
+
+potion.effect.regeneration=Healing Factor Serum
+splash_potion.effect.regeneration=Healing Factor Grenade
+lingering_potion.effect.regeneration=Healing Factor Gas Grenade
+tipped_arrow.effect.regeneration=Healing Factor Warhead
+
+potion.effect.strength=Super Soldier Serum
+splash_potion.effect.strength=Super Soldier Grenade
+lingering_potion.effect.strength=Super Soldier Gas Grenade
+tipped_arrow.effect.strength=Super Soldier Warhead
+
+potion.effect.weakness=Softening Serum
+splash_potion.effect.weakness=Softening Grenade
+lingering_potion.effect.weakness=Softening Gas Grenade
+tipped_arrow.effect.weakness=Softening Warhead
+
+potion.effect.levitation=Anti-Gravity Serum
+splash_potion.effect.levitation=Anti-Gravity Grenade
+lingering_potion.effect.levitation=Anti-Gravity Smoke Grenade
+tipped_arrow.effect.levitation=Anti-Gravity Warhead
+
+potion.effect.luck=Improbable Serum
+splash_potion.effect.luck=Improbable Grenade
+lingering_potion.effect.luck=Improbable Gas Grenade
+tipped_arrow.effect.luck=Improbable Warhead
+
+
+tile.purpurPillar.name=Purpur Girder
+tile.quartzBlock.lines.name=Quartz Girder
+
+tile.enderChest.name=Subspace Chest
+container.enderchest=Subspace Chest
+stat.enderchestOpened=Subspace Chests Opened
+
+tile.lava.name=Ooze
+item.bucketLava.name=Bucket of Ooze
+death.attack.lava=%1$s tried to swim in ooze
+death.attack.lava.player=%1$s tried to swim in ooze to escape %2$s
+subtitles.block.lava.ambient=Ooze pops
+subtitles.block.lava.extinguish=Ooze hisses
+createWorld.customize.custom.useLavaLakes=Ooze Lakes
+createWorld.customize.custom.lavaLakeChance=Ooze Lake Rarity
+createWorld.customize.custom.useLavaOceans=Ooze Oceans
+
+entity.PrimedTnt.name=Nuke
+subtitles.entity.tnt.primed=Nuke fizzes
+tile.tnt.name=Nuke
+item.minecartTnt.name=Minecart with Nuke
+
+
+item.skull.skeleton.name=Skelebot Skull
+entity.Skeleton.name=Skelebot
+subtitles.entity.skeleton.ambient=Skelebot rattles
+subtitles.entity.skeleton.death=Skelebot dies
+subtitles.entity.skeleton.hurt=Skelebot hurts
+subtitles.entity.skeleton.shoot=Skelebot shoots
+
+item.skull.wither.name=Wither Skelebot Skull
+
+
+entity.PigZombie.name=Mole-Person
+subtitles.entity.zombie_pigman.ambient=Mole-Person grunts
+subtitles.entity.zombie_pigman.angry=Mole-Person angers
+subtitles.entity.zombie_pigman.death=Mole-Person dies
+subtitles.entity.zombie_pigman.hurt=Mole-Person hurts
+
+entity.Enderman.name=Alien
+subtitles.entity.enderman.ambient=Alien vwoops
+subtitles.entity.enderman.death=Alien dies
+subtitles.entity.enderman.hurt=Alien hurts
+subtitles.entity.enderman.stare=Alien cries out
+subtitles.entity.enderman.teleport=Alien teleports
+
+entity.VillagerGolem.name=Protector Robot
+subtitles.entity.iron_golem.attack=Robot attacks
+subtitles.entity.iron_golem.death=Robot dies
+subtitles.entity.iron_golem.hurt=Robot hurts
+
+entity.SnowMan.name=Zamboni Robot
+
+entity.Witch.name=Mad Scientist
+subtitles.entity.witch.ambient=Mad Scientist giggles
+subtitles.entity.witch.death=Mad Scientist dies
+subtitles.entity.witch.drink=Mad Scientist drinks
+subtitles.entity.witch.hurt=Mad Scientist hurts
+subtitles.entity.witch.throw=Mad Scientist throws
+
+entity.Villager.fletcher=Rocketeer
+entity.Villager.cleric=Scientist
