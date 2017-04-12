@@ -1,3 +1,8 @@
+item.compass.name=Rift Finder
+
+item.fireworks.name=Rocket Booster
+item.elytra.name=Flying Suit
+
 item.bow.name=Rocket Gun
 item.arrow.name=Rocket
 entity.Arrow.name=Rocket

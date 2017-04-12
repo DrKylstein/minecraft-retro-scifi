@@ -2,7 +2,7 @@
     "ambientocclusion": false,
     "textures": {
         "torch": "blocks/torch_on",
-        "particle": "#torch"
+        "particle": "blocks/torch_on"
     },
     "elements": [
         {   "from": [ 6, 8, 6 ],
