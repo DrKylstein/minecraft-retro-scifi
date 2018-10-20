@@ -1,0 +1,254 @@
+{
+    "language": "English",
+    "language.region": "United States",
+    "language.code": "en_us",
+    
+    "item.minecraft.compass":"Rift Finder",
+
+    "item.minecraft.firework_rocket":"Rocket Booster",
+    "item.minecraft.elytra":"Flying Suit",
+
+    "item.minecraft.bow":"Rocket Gun",
+    "item.minecraft.arrow":"Rocket",
+    "entity.arrow":"Rocket",
+    "item.minecraft.spectral_arrow":"Tracer Rocket",
+    "item.minecraft.tipped_arrow":"Tipped Rocket",
+    "subtitles.entity.arrow.hit":"Rocket hits",
+    "subtitles.entity.arrow.shoot":"Rocket fired",
+    "advancements.adventure.sniper_duel.description":"Kill a skelebot with a rocket from more than 50 meters away",
+
+    "item.minecraft.wooden_sword":"Baseball Bat",
+    "item.minecraft.stone_sword":"Switchblade",
+    "item.minecraft.iron_sword":"Bonesaw",
+    "item.minecraft.diamond_sword":"Photon Cutlass",
+    "item.minecraft.golden_sword":"Brass Knuckles",
+
+    "item.minecraft.golden_helmet":"Safety Hood",
+    "item.minecraft.golden_chestplate":"Hazmat Suit",
+    "item.minecraft.golden_leggings":"Hazmat Leggings",
+    "item.minecraft.golden_boots":"Safety Boots",
+
+    "item.minecraft.book":"Secret Plans",
+    "item.minecraft.enchanted_book":"Punched Card",
+    "item.minecraft.writable_book":"Write-o-matic",
+    "item.minecraft.written_book":"Read-o-matic",
+
+    "item.minecraft.emerald":"Greenback",
+    "block.minecraft.emerald_ore":"Forgotten Greens",
+    "block.minecraft.emerald_block":"Money Bag",
+
+    "item.minecraft.bowl":"Empty Soup Can",
+    "item.minecraft.porkchop":"Raw Pork",
+    "item.minecraft.cooked_porkchop":"Hotdog",
+    "item.minecraft.cooked_beef":"Burger",
+    "item.minecraft.baked_potato":"French Fries",
+    "item.minecraft.cookie":"Donut",
+
+    "item.minecraft.pumpkin_seeds":"Cathode Seeds",
+    "block.minecraft.pumpkin":"Pumptron Tube",
+    "block.minecraft.carved_pumpkin":"Noggin Tube",
+    "block.minecraft.jack_o_lantern":"Glowing Tube",
+    "item.minecraft.pumpkin_pie":"TV Dinner",
+
+    "item.minecraft.fishing_rod":"Speargun",
+    "advancements.husbandry.tactical_fishing.description": "Catch a fish... without a speargun!",
+
+    "item.minecraft.flint_and_steel":"Lighter",
+    "subtitles.item.flintandsteel.use":"Lighter click",
+
+
+    "item.minecraft.wooden_shovel":"Spoon",
+    "item.minecraft.wooden_pickaxe":"Mallet",
+    "item.minecraft.wooden_axe":"Butterknife",
+    "item.minecraft.wooden_hoe":"Fork",
+
+    "item.minecraft.stone_shovel":"Shovel",
+    "item.minecraft.stone_pickaxe":"Pickaxe",
+    "item.minecraft.stone_axe":"Hatchet",
+    "item.minecraft.stone_hoe":"Rake",
+
+    "item.minecraft.iron_shovel":"Ditch Digger",
+    "item.minecraft.iron_pickaxe":"Jackhammer",
+    "item.minecraft.iron_axe":"Chainsaw",
+    "item.minecraft.iron_hoe":"Rotary Tiller",
+
+    "item.minecraft.diamond_shovel":"Sonic Dirt-blaster",
+    "item.minecraft.diamond_pickaxe":"Force Hammer",
+    "item.minecraft.diamond_axe":"Laser Chainsaw",
+    "item.minecraft.diamond_hoe":"Energy Tiller",
+
+    "item.minecraft.map":"Blank Pict-o-tron",
+    "item.minecraft.filled_map":"Pict-o-tron",
+
+    "block.minecraft.brewing_stand":"Bunsen Burner",
+    "container.brewing":"Bunsen Burner",
+    "subtitles.block.brewing_stand.brew":"Bunsen Burner bubbles",
+
+    "item.minecraft.experience_bottle":"Chemical X-P",
+    "item.minecraft.glass_bottle":"Vial",
+    "entity.thrown_potion":"Chemical Grenade",
+    "subtitles.entity.potion.splash":"Grenade smashes",
+    "subtitles.entity.potion.throw":"Grenade thrown",
+
+
+    "potion.effect.empty":"Unobtanium Compound",
+    "splash_potion.effect.empty":"Unobtanium Grenade",
+    "lingering_potion.effect.empty":"Unobtanium Smoke Grenade",
+    "tipped_arrow.effect.empty":"Unobtanium Warhead",
+
+    "potion.effect.water":"Saline Solution",
+    "splash_potion.effect.water":"Explosive Compund",
+    "lingering_potion.effect.water":"Smoky Compound",
+    "tipped_arrow.effect.water":"Wet Rocket",
+
+    "potion.effect.mundane":"Mundane Compound",
+    "splash_potion.effect.mundane":"Explosive Mundane Compound",
+    "lingering_potion.effect.mundane":"Smoky Mundane Compound",
+    "tipped_arrow.effect.mundane":"Mundane Warhead",
+
+    "potion.effect.thick":"Thick Compound",
+    "splash_potion.effect.thick":"Explosive Thick Compound",
+    "lingering_potion.effect.thick":"Smoky Thick Compound",
+    "tipped_arrow.effect.thick":"Thick Warhead",
+
+    "potion.effect.awkward":"Awkward Compound",
+    "splash_potion.effect.awkward":"Explosive Awkward Compound",
+    "lingering_potion.effect.awkward":"Smoky Awkward Compound",
+    "tipped_arrow.effect.awkward":"Awkward Warhead",
+
+    "potion.effect.night_vision":"Night Vision Serum",
+    "splash_potion.effect.night_vision":"Night Vision Grenade",
+    "lingering_potion.effect.night_vision":"Night Vision Gas Grenade",
+    "tipped_arrow.effect.night_vision":"Night Vision Warhead",
+
+    "potion.effect.invisibility":"Invisibility Serum",
+    "splash_potion.effect.invisibility":"Invisibility Grenade",
+    "lingering_potion.effect.invisibility":"Invisibility Gas Grenade",
+    "tipped_arrow.effect.invisibility":"Invisibility Warhead",
+
+    "potion.effect.leaping":"Flubber Serum",
+    "splash_potion.effect.leaping":"Flubber Grenade",
+    "lingering_potion.effect.leaping":"Flubber Gas Grenade",
+    "tipped_arrow.effect.leaping":"Flubber Warhead",
+
+    "potion.effect.fire_resistance":"Fire Vaccine",
+    "splash_potion.effect.fire_resistance":"Fire-Proofing Grenade",
+    "lingering_potion.effect.fire_resistance":"Fire-Proofing Gas Grenade",
+    "tipped_arrow.effect.fire_resistance":"Fire-Proofing Warhead",
+
+    "potion.effect.swiftness":"Super Energy Serum",
+    "splash_potion.effect.swiftness":"Super Energy Grenade",
+    "lingering_potion.effect.swiftness":"Super Energy Gas Grenade",
+    "tipped_arrow.effect.swiftness":"Super Energy Warhead",
+
+    "potion.effect.slowness":"Sedative",
+    "splash_potion.effect.slowness":"Sedative Grenade",
+    "lingering_potion.effect.slowness":"Sedative Gas Grenade",
+    "tipped_arrow.effect.slowness":"Sedative Warhead",
+
+    "potion.effect.water_breathing":"Gill Serum",
+    "splash_potion.effect.water_breathing":"Gill Grenade",
+    "lingering_potion.effect.water_breathing":"Gill Gas Grenade",
+    "tipped_arrow.effect.water_breathing":"Gill Warhead",
+
+    "potion.effect.healing":"Healing Serum",
+    "splash_potion.effect.healing":"Healing Grenade",
+    "lingering_potion.effect.healing":"Healing Gas Grenade",
+    "tipped_arrow.effect.healing":"Healing Warhead",
+
+    "potion.effect.harming":"Toxic Serum",
+    "splash_potion.effect.harming":"Toxic Grenade",
+    "lingering_potion.effect.harming":"Toxic Gas Grenade",
+    "tipped_arrow.effect.harming":"Toxic Warhead",
+
+    "potion.effect.poison":"Virus Serum",
+    "splash_potion.effect.poison":"Virus Grenade",
+    "lingering_potion.effect.poison":"Viral Gas Grenade",
+    "tipped_arrow.effect.poison":"Viral Warhead",
+
+    "potion.effect.regeneration":"Healing Factor Serum",
+    "splash_potion.effect.regeneration":"Healing Factor Grenade",
+    "lingering_potion.effect.regeneration":"Healing Factor Gas Grenade",
+    "tipped_arrow.effect.regeneration":"Healing Factor Warhead",
+
+    "potion.effect.strength":"Super Soldier Serum",
+    "splash_potion.effect.strength":"Super Soldier Grenade",
+    "lingering_potion.effect.strength":"Super Soldier Gas Grenade",
+    "tipped_arrow.effect.strength":"Super Soldier Warhead",
+
+    "potion.effect.weakness":"Softening Serum",
+    "splash_potion.effect.weakness":"Softening Grenade",
+    "lingering_potion.effect.weakness":"Softening Gas Grenade",
+    "tipped_arrow.effect.weakness":"Softening Warhead",
+
+    "potion.effect.levitation":"Anti-Gravity Serum",
+    "splash_potion.effect.levitation":"Anti-Gravity Grenade",
+    "lingering_potion.effect.levitation":"Anti-Gravity Smoke Grenade",
+    "tipped_arrow.effect.levitation":"Anti-Gravity Warhead",
+
+    "potion.effect.luck":"Improbable Serum",
+    "splash_potion.effect.luck":"Improbable Grenade",
+    "lingering_potion.effect.luck":"Improbable Gas Grenade",
+    "tipped_arrow.effect.luck":"Improbable Warhead",
+
+
+    "block.minecraft.purpur_pillar":"Purpur Girder",
+    "block.minecraft.quartzBlock.lines":"Quartz Girder",
+
+    "block.minecraft.enderChest":"Subspace Chest",
+    "container.enderchest":"Subspace Chest",
+    "stat.enderchestOpened":"Subspace Chests Opened",
+
+    "block.minecraft.lava":"Ooze",
+    "item.minecraft.lava_bucket":"Bucket of Ooze",
+    "death.attack.lava":"%1$s tried to swim in ooze",
+    "death.attack.lava.player":"%1$s tried to swim in ooze to escape %2$s",
+    "subtitles.block.lava.ambient":"Ooze pops",
+    "subtitles.block.lava.extinguish":"Ooze hisses",
+
+    "entity.PrimedTnt":"Nuke",
+    "subtitles.entity.tnt.primed":"Nuke fizzes",
+    "block.minecraft.tnt":"Nuke",
+    "item.minecraft.minecartTnt":"Minecart with Nuke",
+
+
+    "block.minecraft.skeleton_skull":"Skelebot Skull",
+    "entity.Skeleton":"Skelebot",
+    "subtitles.entity.skeleton.ambient":"Skelebot rattles",
+    "subtitles.entity.skeleton.death":"Skelebot dies",
+    "subtitles.entity.skeleton.hurt":"Skelebot hurts",
+    "subtitles.entity.skeleton.shoot":"Skelebot shoots",
+
+    "block.minecraft.wither_skeleton_skull":"Wither Skelebot Skull",
+
+
+    "entity.zombie_pigman":"Mole-Person",
+    "subtitles.entity.zombie_pigman.ambient":"Mole-Person grunts",
+    "subtitles.entity.zombie_pigman.angry":"Mole-Person angers",
+    "subtitles.entity.zombie_pigman.death":"Mole-Person dies",
+    "subtitles.entity.zombie_pigman.hurt":"Mole-Person hurts",
+
+    "entity.enderman":"Alien",
+    "subtitles.entity.enderman.ambient":"Alien vwoops",
+    "subtitles.entity.enderman.death":"Alien dies",
+    "subtitles.entity.enderman.hurt":"Alien hurts",
+    "subtitles.entity.enderman.stare":"Alien cries out",
+    "subtitles.entity.enderman.teleport":"Alien teleports",
+
+    "entity.iron_golem":"Protector Robot",
+    "subtitles.entity.iron_golem.attack":"Robot attacks",
+    "subtitles.entity.iron_golem.death":"Robot dies",
+    "subtitles.entity.iron_golem.hurt":"Robot hurts",
+
+    "entity.snow_golem":"Zamboni Robot",
+
+    "entity.witch":"Mad Scientist",
+    "subtitles.entity.witch.ambient":"Mad Scientist giggles",
+    "subtitles.entity.witch.death":"Mad Scientist dies",
+    "subtitles.entity.witch.drink":"Mad Scientist drinks",
+    "subtitles.entity.witch.hurt":"Mad Scientist hurts",
+    "subtitles.entity.witch.throw":"Mad Scientist throws",
+
+    "entity.Villager.fletcher":"Rocketeer",
+    "entity.Villager.cleric":"Scientist"
+}
