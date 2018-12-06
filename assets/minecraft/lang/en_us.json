@@ -195,10 +195,6 @@
     "block.minecraft.purpur_pillar":"Purpur Girder",
     "block.minecraft.quartzBlock.lines":"Quartz Girder",
 
-    "block.minecraft.enderChest":"Subspace Chest",
-    "container.enderchest":"Subspace Chest",
-    "stat.enderchestOpened":"Subspace Chests Opened",
-
     "block.minecraft.lava":"Ooze",
     "item.minecraft.lava_bucket":"Bucket of Ooze",
     "death.attack.lava":"%1$s tried to swim in ooze",
@@ -213,7 +209,7 @@
 
 
     "block.minecraft.skeleton_skull":"Skelebot Skull",
-    "entity.Skeleton":"Skelebot",
+    "entity.minecraft.Skeleton":"Skelebot",
     "subtitles.entity.skeleton.ambient":"Skelebot rattles",
     "subtitles.entity.skeleton.death":"Skelebot dies",
     "subtitles.entity.skeleton.hurt":"Skelebot hurts",
@@ -222,25 +218,18 @@
     "block.minecraft.wither_skeleton_skull":"Wither Skelebot Skull",
 
 
-    "entity.zombie_pigman":"Mole-Person",
+    "entity.minecraft.zombie_pigman":"Mole-Person",
     "subtitles.entity.zombie_pigman.ambient":"Mole-Person grunts",
     "subtitles.entity.zombie_pigman.angry":"Mole-Person angers",
     "subtitles.entity.zombie_pigman.death":"Mole-Person dies",
     "subtitles.entity.zombie_pigman.hurt":"Mole-Person hurts",
 
-    "entity.enderman":"Alien",
-    "subtitles.entity.enderman.ambient":"Alien vwoops",
-    "subtitles.entity.enderman.death":"Alien dies",
-    "subtitles.entity.enderman.hurt":"Alien hurts",
-    "subtitles.entity.enderman.stare":"Alien cries out",
-    "subtitles.entity.enderman.teleport":"Alien teleports",
-
-    "entity.iron_golem":"Protector Robot",
+    "entity.minecraft.iron_golem":"Protector Robot",
     "subtitles.entity.iron_golem.attack":"Robot attacks",
     "subtitles.entity.iron_golem.death":"Robot dies",
     "subtitles.entity.iron_golem.hurt":"Robot hurts",
 
-    "entity.snow_golem":"Zamboni Robot",
+    "entity.minecraft.snow_golem":"Snow Robot",
 
     "entity.witch":"Mad Scientist",
     "subtitles.entity.witch.ambient":"Mad Scientist giggles",
@@ -249,6 +238,11 @@
     "subtitles.entity.witch.hurt":"Mad Scientist hurts",
     "subtitles.entity.witch.throw":"Mad Scientist throws",
 
-    "entity.Villager.fletcher":"Rocketeer",
-    "entity.Villager.cleric":"Scientist"
+    "entity.minecraft.villager.fletcher":"Rocketeer",
+    "entity.minecraft.villager.cleric":"Scientist",
+    
+    "item.minecraft.rotten_flesh": "Soylent Green",
+    
+    "item.minecraft.painting": "Decal"
+
 }
