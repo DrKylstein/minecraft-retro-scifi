@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_top",
-    "textures": {
-        "side": "blocks/hardened_clay_stained_cyan",
-        "top": "blocks/hardened_clay_stained_cyan_top"
-    }
-}
