@@ -5,17 +5,18 @@
     
     "item.minecraft.compass":"Rift Finder",
 
-    "item.minecraft.firework_rocket":"Rocket Booster",
+    "item.minecraft.firework_rocket":"Rocket",
     "item.minecraft.elytra":"Flying Suit",
 
-    "item.minecraft.bow":"Rocket Gun",
-    "item.minecraft.arrow":"Rocket",
-    "entity.arrow":"Rocket",
-    "item.minecraft.spectral_arrow":"Tracer Rocket",
-    "item.minecraft.tipped_arrow":"Tipped Rocket",
-    "subtitles.entity.arrow.hit":"Rocket hits",
-    "subtitles.entity.arrow.shoot":"Rocket fired",
-    "advancements.adventure.sniper_duel.description":"Kill a skelebot with a rocket from more than 50 meters away",
+    "item.minecraft.bow":"Needle Gun",
+    "item.minecraft.crossbow":"Bazooka",
+    "item.minecraft.arrow":"Flechette",
+    "entity.arrow":"Flechette",
+    "item.minecraft.spectral_arrow":"Tracer Flechette",
+    "item.minecraft.tipped_arrow":"Tipped Flechette",
+    "subtitles.entity.arrow.hit":"Flechette hits",
+    "subtitles.entity.arrow.shoot":"Flechette fired",
+    "advancements.adventure.sniper_duel.description":"Kill a skelebot with a flechette from more than 50 meters away",
 
     "item.minecraft.wooden_sword":"Baseball Bat",
     "item.minecraft.stone_sword":"Switchblade",
@@ -28,7 +29,7 @@
     "item.minecraft.golden_leggings":"Hazmat Leggings",
     "item.minecraft.golden_boots":"Safety Boots",
 
-    "item.minecraft.book":"Secret Plans",
+    "item.minecraft.book":"Secret Data",
     "item.minecraft.enchanted_book":"Punched Card",
     "item.minecraft.writable_book":"Write-o-matic",
     "item.minecraft.written_book":"Read-o-matic",
@@ -238,12 +239,19 @@
     "subtitles.entity.witch.hurt":"Mad Scientist hurts",
     "subtitles.entity.witch.throw":"Mad Scientist throws",
 
-    "entity.minecraft.villager.fletcher":"Rocketeer",
+    "entity.minecraft.villager.fletcher":"Gunsmith",
     "entity.minecraft.villager.cleric":"Scientist",
     
     "item.minecraft.rotten_flesh": "Soylent Green",
     
     "item.minecraft.painting": "Decal",
     
-    "block.minecraft.redstone_wire": "Redstone Wire"
+    "block.minecraft.redstone_wire": "Redstone Wire",
+    
+    "entity.minecraft.wandering_trader": "Traveling Salesman",
+    
+    "item.minecraft.turtle_helmet": "Turtle Mask",
+    
+    "block.minecraft.lectern": "Console"
+
 }
