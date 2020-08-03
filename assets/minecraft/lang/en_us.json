@@ -18,16 +18,6 @@
     "subtitles.entity.arrow.shoot":"Flechette fired",
     "advancements.adventure.sniper_duel.description":"Kill a skelebot with a flechette from more than 50 meters away",
 
-    "item.minecraft.wooden_sword":"Baseball Bat",
-    "item.minecraft.stone_sword":"Switchblade",
-    "item.minecraft.iron_sword":"Bonesaw",
-    "item.minecraft.diamond_sword":"Photon Cutlass",
-    "item.minecraft.golden_sword":"Brass Knuckles",
-
-    "item.minecraft.golden_helmet":"Safety Hood",
-    "item.minecraft.golden_chestplate":"Hazmat Suit",
-    "item.minecraft.golden_leggings":"Hazmat Leggings",
-    "item.minecraft.golden_boots":"Safety Boots",
 
     "item.minecraft.book":"Secret Data",
     "item.minecraft.enchanted_book":"Punched Card",
@@ -57,26 +47,38 @@
     "item.minecraft.flint_and_steel":"Lighter",
     "subtitles.item.flintandsteel.use":"Lighter click",
 
+    "item.minecraft.golden_sword":"Brass Knuckles",
 
+
+    "item.minecraft.wooden_sword":"Baseball Bat",
     "item.minecraft.wooden_shovel":"Spoon",
     "item.minecraft.wooden_pickaxe":"Mallet",
     "item.minecraft.wooden_axe":"Butterknife",
     "item.minecraft.wooden_hoe":"Fork",
 
+    "item.minecraft.stone_sword":"Switchblade",
     "item.minecraft.stone_shovel":"Shovel",
     "item.minecraft.stone_pickaxe":"Pickaxe",
     "item.minecraft.stone_axe":"Hatchet",
     "item.minecraft.stone_hoe":"Rake",
 
+    "item.minecraft.iron_sword":"Bonesaw",
     "item.minecraft.iron_shovel":"Ditch Digger",
     "item.minecraft.iron_pickaxe":"Jackhammer",
     "item.minecraft.iron_axe":"Chainsaw",
     "item.minecraft.iron_hoe":"Rotary Tiller",
 
-    "item.minecraft.diamond_shovel":"Sonic Dirt-blaster",
-    "item.minecraft.diamond_pickaxe":"Force Hammer",
-    "item.minecraft.diamond_axe":"Laser Chainsaw",
-    "item.minecraft.diamond_hoe":"Energy Tiller",
+    "item.minecraft.diamond_sword":"Photonic Cutlass",
+    "item.minecraft.diamond_shovel":"Photonic Dirt-blaster",
+    "item.minecraft.diamond_pickaxe":"Photonic Hammer",
+    "item.minecraft.diamond_axe":"Photonic Chainsaw",
+    "item.minecraft.diamond_hoe":"Photonic Tiller",
+    
+    "item.minecraft.netherite_sword":"Atomic Cutlass",
+    "item.minecraft.netherite_shovel":"Atomic Dirt-blaster",
+    "item.minecraft.netherite_pickaxe":"Atomic Hammer",
+    "item.minecraft.netherite_axe":"Atomic Chainsaw",
+    "item.minecraft.netherite_hoe":"Atomic Tiller",
 
     "item.minecraft.map":"Blank Pict-o-tron",
     "item.minecraft.filled_map":"Pict-o-tron",
@@ -218,12 +220,6 @@
 
     "block.minecraft.wither_skeleton_skull":"Wither Skelebot Skull",
 
-
-    "entity.minecraft.zombie_pigman":"Mole-Person",
-    "subtitles.entity.zombie_pigman.ambient":"Mole-Person grunts",
-    "subtitles.entity.zombie_pigman.angry":"Mole-Person angers",
-    "subtitles.entity.zombie_pigman.death":"Mole-Person dies",
-    "subtitles.entity.zombie_pigman.hurt":"Mole-Person hurts",
 
     "entity.minecraft.iron_golem":"Protector Robot",
     "subtitles.entity.iron_golem.attack":"Robot attacks",
