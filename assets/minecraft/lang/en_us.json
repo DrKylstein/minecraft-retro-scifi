@@ -237,11 +237,10 @@
 
     "entity.minecraft.villager.fletcher":"Gunsmith",
     "entity.minecraft.villager.cleric":"Scientist",
+    "entity.minecraft.villager.leatherworker":"Tailor",
     
     "item.minecraft.rotten_flesh": "Soylent Green",
-    
-    "item.minecraft.painting": "Decal",
-    
+        
     "block.minecraft.redstone_wire": "Redstone Wire",
     
     "entity.minecraft.wandering_trader": "Traveling Salesman",
